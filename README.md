@@ -1,2 +1,2 @@
-# WindowsForensics
-Mindmap for windows forensics process
+# Windows Forensics
+Mindmap for windows forensics process.
